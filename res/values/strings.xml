@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fading Tabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">One</string>
+    <string name="title_section2">Two</string>
+    <string name="title_section3">Three</string>
+    <string name="title_section4">Four</string>
+
+</resources>
